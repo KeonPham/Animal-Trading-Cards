@@ -1,0 +1,33 @@
+img {
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+}
+
+h3 {
+  margin: 10px;
+}
+
+body {
+  width: 350px;
+  margin: 50px;
+  box-shadow: 6px 6px 1px 0px rgb(235, 235, 235);
+}
+
+div {
+  margin: 10px;
+  border: 1px solid rgb(220, 220, 220);
+  padding: 5px;
+}
+
+.emphasized {
+  font-style: italic;
+}
+
+span { 
+  font-weight: bold; 
+}
+
+li {
+  list-style-type: none;
+}
